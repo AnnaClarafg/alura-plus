@@ -8,5 +8,5 @@ O Alura+ é uma plataforma que une os cursos da Alura + Alura línguas, desenvol
 - Dispaly: grid
 - Display: flexbox
 - MediaQueries
-
+## Tela principal ALURA+
 ![Tela principal do Alura+](https://s4.aconvert.com/convert/p3r68-cdx67/avvk9-k3kv5.png)
